@@ -1,5 +1,5 @@
 #include <iostream>
-#include <string.h>
+#include <cstring>
 
 using namespace std;
 
@@ -21,6 +21,8 @@ int main() {
     
     cout << textogrande << endl;
     descomponer(textogrande, 100);
+    
+    cout << strlen(textogrande) << endl;
     
     return 0;
 
