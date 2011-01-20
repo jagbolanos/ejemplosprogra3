@@ -14,6 +14,7 @@ int main() {
     char texto[10] = "mundo";
     char textogrande[100] = "hola ";
     
+    texto[2] = 0;
     cout << texto << endl;
     descomponer(texto, 10);
     
