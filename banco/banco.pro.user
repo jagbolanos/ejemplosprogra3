@@ -10,11 +10,11 @@
  </data>
  <data>
   <variable>RunConfiguration0-ProFile</variable>
-  <value type="QString">sockets.pro</value>
+  <value type="QString">banco.pro</value>
  </data>
  <data>
   <variable>RunConfiguration0-RunConfiguration.name</variable>
-  <value type="QString">sockets</value>
+  <value type="QString">banco</value>
  </data>
  <data>
   <variable>RunConfiguration0-UseDyldImageSuffix</variable>
@@ -76,15 +76,15 @@
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
    <valuelist key="abstractProcess.Environment" type="QVariantList">
-    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-E8HnSq5wAe,guid=a5e0a30ab193ae0833d254d54d6fbaa7</value>
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-9SiquwMQiI,guid=c61df667b3657d04898ce93a4d78fb23</value>
     <value type="QString">DESKTOP_SESSION=gnome</value>
     <value type="QString">DISPLAY=:0.0</value>
     <value type="QString">GDMSESSION=gnome</value>
     <value type="QString">GDM_KEYBOARD_LAYOUT=us	intl</value>
     <value type="QString">GDM_LANG=es_HN.UTF-8</value>
     <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
-    <value type="QString">GNOME_KEYRING_PID=2860</value>
-    <value type="QString">GNOME_KEYRING_SOCKET=/tmp/keyring-pXwh6j/socket</value>
+    <value type="QString">GNOME_KEYRING_PID=3303</value>
+    <value type="QString">GNOME_KEYRING_SOCKET=/tmp/keyring-5pPjPk/socket</value>
     <value type="QString">GTK_MODULES=canberra-gtk-module</value>
     <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/home/jagbolanos/.gtkrc-1.2-gnome2</value>
     <value type="QString">HOME=/home/jagbolanos</value>
@@ -96,28 +96,27 @@
     <value type="QString">PT5HOME=/usr/local/PacketTracer5</value>
     <value type="QString">PWD=/home/jagbolanos</value>
     <value type="QString">QTDIR=/home/jagbolanos/qtsdk-2010.02/qt</value>
-    <value type="QString">SESSION_MANAGER=local/jagbolanos-laptop:@/tmp/.ICE-unix/2884,unix/jagbolanos-laptop:/tmp/.ICE-unix/2884</value>
+    <value type="QString">SESSION_MANAGER=local/jagbolanos-laptop:@/tmp/.ICE-unix/3318,unix/jagbolanos-laptop:/tmp/.ICE-unix/3318</value>
     <value type="QString">SHELL=/bin/bash</value>
     <value type="QString">SPEECHD_PORT=7560</value>
-    <value type="QString">SSH_AGENT_PID=2948</value>
-    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-pXwh6j/socket.ssh</value>
+    <value type="QString">SSH_AGENT_PID=3358</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-5pPjPk/socket.ssh</value>
     <value type="QString">USER=jagbolanos</value>
     <value type="QString">USERNAME=jagbolanos</value>
-    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-jagbolanos-snG6TA/database</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-jagbolanos-jB9Mrx/database</value>
     <value type="QString">XDG_DATA_DIRS=/usr/share/gnome:/usr/local/share/:/usr/share/</value>
-    <value type="QString">XDG_SESSION_COOKIE=672d4e566c472d91cddcbbad4b2fa523-1299167911.169555-1630515694</value>
+    <value type="QString">XDG_SESSION_COOKIE=672d4e566c472d91cddcbbad4b2fa523-1299774243.8349-704860067</value>
    </valuelist>
    <valuelist key="abstractProcess.arguments" type="QVariantList">
-    <value type="QString">/home/jagbolanos/Documentos/workspace/ejemplosprogra3/sockets/sockets.pro</value>
+    <value type="QString">/home/jagbolanos/Documentos/workspace/ejemplosprogra3/banco/banco.pro</value>
     <value type="QString">-spec</value>
     <value type="QString">linux-g++</value>
     <value type="QString">-r</value>
     <value type="QString">CONFIG+=debug</value>
    </valuelist>
    <value key="abstractProcess.command" type="QString">/home/jagbolanos/qtsdk-2010.02/qt/bin/qmake</value>
-   <value key="abstractProcess.enabled" type="bool">true</value>
-   <value key="abstractProcess.workingDirectory" type="QString">/home/jagbolanos/Documentos/workspace/ejemplosprogra3/sockets</value>
-   <value key="buildConfiguration" type=""></value>
+   <value key="abstractProcess.enabled" type="bool">false</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/jagbolanos/Documentos/workspace/ejemplosprogra3/banco</value>
   </valuemap>
  </data>
  <data>
@@ -125,15 +124,15 @@
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
    <valuelist key="abstractProcess.Environment" type="QVariantList">
-    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-E8HnSq5wAe,guid=a5e0a30ab193ae0833d254d54d6fbaa7</value>
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-9SiquwMQiI,guid=c61df667b3657d04898ce93a4d78fb23</value>
     <value type="QString">DESKTOP_SESSION=gnome</value>
     <value type="QString">DISPLAY=:0.0</value>
     <value type="QString">GDMSESSION=gnome</value>
     <value type="QString">GDM_KEYBOARD_LAYOUT=us	intl</value>
     <value type="QString">GDM_LANG=es_HN.UTF-8</value>
     <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
-    <value type="QString">GNOME_KEYRING_PID=2860</value>
-    <value type="QString">GNOME_KEYRING_SOCKET=/tmp/keyring-pXwh6j/socket</value>
+    <value type="QString">GNOME_KEYRING_PID=3303</value>
+    <value type="QString">GNOME_KEYRING_SOCKET=/tmp/keyring-5pPjPk/socket</value>
     <value type="QString">GTK_MODULES=canberra-gtk-module</value>
     <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/home/jagbolanos/.gtkrc-1.2-gnome2</value>
     <value type="QString">HOME=/home/jagbolanos</value>
@@ -145,16 +144,16 @@
     <value type="QString">PT5HOME=/usr/local/PacketTracer5</value>
     <value type="QString">PWD=/home/jagbolanos</value>
     <value type="QString">QTDIR=/home/jagbolanos/qtsdk-2010.02/qt</value>
-    <value type="QString">SESSION_MANAGER=local/jagbolanos-laptop:@/tmp/.ICE-unix/2884,unix/jagbolanos-laptop:/tmp/.ICE-unix/2884</value>
+    <value type="QString">SESSION_MANAGER=local/jagbolanos-laptop:@/tmp/.ICE-unix/3318,unix/jagbolanos-laptop:/tmp/.ICE-unix/3318</value>
     <value type="QString">SHELL=/bin/bash</value>
     <value type="QString">SPEECHD_PORT=7560</value>
-    <value type="QString">SSH_AGENT_PID=2948</value>
-    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-pXwh6j/socket.ssh</value>
+    <value type="QString">SSH_AGENT_PID=3358</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-5pPjPk/socket.ssh</value>
     <value type="QString">USER=jagbolanos</value>
     <value type="QString">USERNAME=jagbolanos</value>
-    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-jagbolanos-snG6TA/database</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-jagbolanos-jB9Mrx/database</value>
     <value type="QString">XDG_DATA_DIRS=/usr/share/gnome:/usr/local/share/:/usr/share/</value>
-    <value type="QString">XDG_SESSION_COOKIE=672d4e566c472d91cddcbbad4b2fa523-1299167911.169555-1630515694</value>
+    <value type="QString">XDG_SESSION_COOKIE=672d4e566c472d91cddcbbad4b2fa523-1299774243.8349-704860067</value>
    </valuelist>
    <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
    <valuelist key="abstractProcess.arguments" type="QVariantList">
@@ -162,7 +161,7 @@
    </valuelist>
    <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
    <value key="abstractProcess.enabled" type="bool">true</value>
-   <value key="abstractProcess.workingDirectory" type="QString">/home/jagbolanos/Documentos/workspace/ejemplosprogra3/sockets</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/jagbolanos/Documentos/workspace/ejemplosprogra3/banco</value>
   </valuemap>
  </data>
  <data>
@@ -179,7 +178,6 @@
   <variable>buildconfiguration-Release-buildstep0</variable>
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
-   <value key="buildConfiguration" type=""></value>
   </valuemap>
  </data>
  <data>
